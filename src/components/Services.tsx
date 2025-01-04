@@ -1,17 +1,17 @@
 import React from 'react';
 import { FaBook, FaBriefcase, FaBullhorn, FaCode, FaLaptop, FaLink, FaMicrophone, FaUserAlt } from 'react-icons/fa';
 
-const courses = [
-    { icon: FaCode, title: "Design & Development" },
-    { icon: FaBullhorn, title: "Marketing" },
-    { icon: FaLaptop, title: "Development" },
-    { icon: FaMicrophone, title: "Communication" },
-    { icon: FaLink, title: "Digital Marketing" },
-    { icon: FaUserAlt, title: "Self Development" },
-    { icon: FaBriefcase, title: "Business" },
-    { icon: FaBook, title: "Finance" },
-    { icon: FaBook, title: "Consulting" },
-  ];
+// const courses = [
+//   { icon: FaCode, title: "Design & Development" },
+//   { icon: FaBullhorn, title: "Marketing" },
+//   { icon: FaLaptop, title: "Development" },
+//   { icon: FaMicrophone, title: "Communication" },
+//   { icon: FaLink, title: "Digital Marketing" },
+//   { icon: FaUserAlt, title: "Self Development" },
+//   { icon: FaBriefcase, title: "Business" },
+//   { icon: FaBook, title: "Finance" },
+//   { icon: FaBook, title: "Consulting" },
+// ];
   
 
   function Services() {
